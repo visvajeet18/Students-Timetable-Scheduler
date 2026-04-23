@@ -1,0 +1,35 @@
+{
+  "id": "cpi3q54xw",
+  "name": "Web App",
+  "difficulty": 3,
+  "topics": [
+    {
+      "id": "zmdi7b5hk",
+      "name": "HTML",
+      "completed": false,
+      "watchTime": 2.066666666666667
+    },
+    {
+      "id": "y85bxt7zn",
+      "name": "CSS",
+      "completed": false,
+      "watchTime": 0
+    },
+    {
+      "id": "7jk6ap2uj",
+      "name": "JS",
+      "completed": false,
+      "watchTime": 0
+    },
+    {
+      "id": "k1gddpme9",
+      "name": "NODE",
+      "completed": false,
+      "watchTime": 0
+    }
+  ],
+  "examDate": "2026-05-02",
+  "targetGrade": "A+",
+  "methodology": "Deep Work",
+  "color": "hsl(247.35994261217743, 70%, 60%)"
+}

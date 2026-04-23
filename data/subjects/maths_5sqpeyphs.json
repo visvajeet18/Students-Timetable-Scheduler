@@ -1,0 +1,17 @@
+{
+  "id": "5sqpeyphs",
+  "name": "Maths",
+  "difficulty": 3,
+  "topics": [
+    {
+      "id": "0f3nuk8l1",
+      "name": "Adition",
+      "completed": false,
+      "watchTime": 0
+    }
+  ],
+  "examDate": "2026-05-02",
+  "targetGrade": "Pass",
+  "methodology": "Deep Work",
+  "color": "hsl(13.486329740302164, 70%, 60%)"
+}

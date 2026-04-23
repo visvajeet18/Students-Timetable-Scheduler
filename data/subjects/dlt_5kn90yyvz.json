@@ -1,0 +1,23 @@
+{
+  "id": "5kn90yyvz",
+  "name": "DLT",
+  "difficulty": 4,
+  "topics": [
+    {
+      "id": "biez3lua4",
+      "name": "Artificial intelligence",
+      "completed": false,
+      "watchTime": 0
+    },
+    {
+      "id": "v9fdwjs1y",
+      "name": "Machine learning",
+      "completed": false,
+      "watchTime": 0
+    }
+  ],
+  "examDate": "2026-05-02",
+  "targetGrade": "A+",
+  "methodology": "Practical",
+  "color": "hsl(236.6611529765, 70%, 60%)"
+}

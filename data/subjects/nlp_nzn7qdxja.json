@@ -1,0 +1,23 @@
+{
+  "id": "nzn7qdxja",
+  "name": "NLP",
+  "difficulty": 3,
+  "topics": [
+    {
+      "id": "q3rak78md",
+      "name": "Nural network",
+      "completed": false,
+      "watchTime": 0
+    },
+    {
+      "id": "6wec9ugh0",
+      "name": "language processing",
+      "completed": false,
+      "watchTime": 0
+    }
+  ],
+  "examDate": "2026-05-02",
+  "targetGrade": "A",
+  "methodology": "Active Recall",
+  "color": "hsl(70.84646748570165, 70%, 60%)"
+}

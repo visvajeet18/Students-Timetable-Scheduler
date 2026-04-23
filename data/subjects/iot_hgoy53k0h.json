@@ -1,0 +1,23 @@
+{
+  "id": "hgoy53k0h",
+  "name": "IoT",
+  "difficulty": 3,
+  "topics": [
+    {
+      "id": "wyfu21ibv",
+      "name": "Sensors",
+      "completed": false,
+      "watchTime": 0
+    },
+    {
+      "id": "a2klmq10j",
+      "name": "Modules",
+      "completed": false,
+      "watchTime": 0
+    }
+  ],
+  "examDate": "2026-05-02",
+  "targetGrade": "A",
+  "methodology": "Deep Work",
+  "color": "hsl(137.13577675845983, 70%, 60%)"
+}
